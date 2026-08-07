@@ -1,0 +1,6 @@
+student_id,name,quiz_1,quiz_2,midterm,final_exam,attendance_pct
+ST001,Aisha,88,91,84,86,93
+ST002,Bharat,76,72,48,44,91
+ST003,Charu,55,58,52,54,68
+ST004,Dev,92,89,87,90,49
+ST005,Esha,64,,49,51,82
