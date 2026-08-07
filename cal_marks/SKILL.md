@@ -11,7 +11,7 @@ weighted scores or grades manually.
 ## Workflow
 
 1. Confirm that the input is a CSV file containing:
-   `student_id`, `name`, `quiz`, `midterm`, and `final`.
+  'student_id','name','quiz_1','quiz_2','midterm','final_exam','attendance_pct'
 2. Run:
 
    `python3 scripts/analyze_scores.py <input.csv>`
