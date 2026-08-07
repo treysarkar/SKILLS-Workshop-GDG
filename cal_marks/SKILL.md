@@ -22,6 +22,8 @@ weighted scores or grades manually.
    - highest and lowest score;
    - grade distribution;
    - students requiring support.
+
+   in a table
 5. Explain the findings in clear, supportive language.
 6. Never invent missing marks or student information.
 
